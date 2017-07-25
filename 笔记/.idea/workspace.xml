@@ -16,9 +16,21 @@
         <entry file="file://$PROJECT_DIR$/qunar工作记录">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
+              <first_editor relative-caret-position="135">
+                <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+                <folding>
+                  <marker date="1500995518000" expanded="true" signature="998:1067" ph="/**...*/" />
+                  <marker date="1500995518000" expanded="true" signature="1125:1522" ph="{...}" />
+                  <marker date="1500995518000" expanded="true" signature="1950:2598" ph="{...}" />
+                  <marker date="1500995518000" expanded="true" signature="2005:2596" ph="{...}" />
+                  <marker date="1500995518000" expanded="true" signature="2029:2439" ph="{...}" />
+                  <marker date="1500995518000" expanded="true" signature="2055:2225" ph="{...}" />
+                  <marker date="1500995518000" expanded="true" signature="2147:2184" ph="{&quot;calling&quot;: calling...}" />
+                  <marker date="1500995518000" expanded="true" signature="2231:2429" ph="{...}" />
+                  <marker date="1500995518000" expanded="true" signature="2351:2388" ph="{&quot;calling&quot;: calling...}" />
+                  <marker date="1500995518000" expanded="true" signature="2445:2590" ph="{...}" />
+                  <marker date="1500995518000" expanded="true" signature="2516:2540" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -523,16 +535,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500995423660</updated>
-      <workItem from="1500995425990" duration="74000" />
+      <workItem from="1500995425990" duration="125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74000" />
+    <option name="totallyTimeSpent" value="125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -545,7 +556,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -578,9 +589,21 @@
     <entry file="file://$PROJECT_DIR$/qunar工作记录">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+          <first_editor relative-caret-position="135">
+            <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <folding>
+              <marker date="1500995518000" expanded="true" signature="998:1067" ph="/**...*/" />
+              <marker date="1500995518000" expanded="true" signature="1125:1522" ph="{...}" />
+              <marker date="1500995518000" expanded="true" signature="1950:2598" ph="{...}" />
+              <marker date="1500995518000" expanded="true" signature="2005:2596" ph="{...}" />
+              <marker date="1500995518000" expanded="true" signature="2029:2439" ph="{...}" />
+              <marker date="1500995518000" expanded="true" signature="2055:2225" ph="{...}" />
+              <marker date="1500995518000" expanded="true" signature="2147:2184" ph="{&quot;calling&quot;: calling...}" />
+              <marker date="1500995518000" expanded="true" signature="2231:2429" ph="{...}" />
+              <marker date="1500995518000" expanded="true" signature="2351:2388" ph="{&quot;calling&quot;: calling...}" />
+              <marker date="1500995518000" expanded="true" signature="2445:2590" ph="{...}" />
+              <marker date="1500995518000" expanded="true" signature="2516:2540" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
